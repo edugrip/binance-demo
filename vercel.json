@@ -12,5 +12,7 @@
       "dest": "/"
     }
   ],
-  "regions":  ["hkg1"]
+{
+  "regions": ["sfo1"]
+}
 }
